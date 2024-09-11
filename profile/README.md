@@ -7,3 +7,7 @@ El sistema integrará formularios interactivos para la captura de datos del clie
 Uno de los componentes clave del proyecto es la integración de una pasarela de pago, que permitirá procesar transacciones de manera eficiente y segura. El proceso de emisión incluirá también la autenticación del cliente mediante OTP (One-Time Password) y el almacenamiento seguro de sus datos.
 
 Este desarrollo está pensado para facilitar el proceso de contratación de seguros, asegurando el cumplimiento de las normativas y la trazabilidad de cada transacción mediante la generación de identificadores únicos en cada paso.
+
+## Antecedentes
+
+Puedes ver como inició el proyecto (aquí)[].
