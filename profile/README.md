@@ -1,12 +1,9 @@
-## Hi there 👋
+# Emisión de Seguros
 
-<!--
+Este proyecto tiene como objetivo desarrollar una plataforma web que permita la emisión de pólizas de seguro de manera ágil y segura. La solución está diseñada para ser accesible desde cualquier dispositivo, proporcionando una experiencia de usuario fluida y optimizada.
 
-**Here are some ideas to get you started:**
+El sistema integrará formularios interactivos para la captura de datos del cliente, verificación de identidad, y validación de información mediante servicios web provistos por Nacional Seguros. Además, se incluirán características de generación automática de documentos como pólizas y facturas, firmadas digitalmente y acompañadas de códigos QR para su validación.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Uno de los componentes clave del proyecto es la integración de una pasarela de pago, que permitirá procesar transacciones de manera eficiente y segura. El proceso de emisión incluirá también la autenticación del cliente mediante OTP (One-Time Password) y el almacenamiento seguro de sus datos.
+
+Este desarrollo está pensado para facilitar el proceso de contratación de seguros, asegurando el cumplimiento de las normativas y la trazabilidad de cada transacción mediante la generación de identificadores únicos en cada paso.
