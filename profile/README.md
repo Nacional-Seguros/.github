@@ -10,4 +10,4 @@ Este desarrollo está pensado para facilitar el proceso de contratación de segu
 
 ## Antecedentes
 
-Puedes ver como inició el proyecto (aquí)[].
+Puedes ver como inició el proyecto [aquí]().
