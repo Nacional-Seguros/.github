@@ -20,29 +20,29 @@ Puedes ver el diseño del proyecto [aquí](https://www.figma.com/design/D34igQYT
 - Precio $us 12.500
 - Tiempos 2 Meses desarrollo 1 mes pruebas
 
-### Dev-Obs
+### Dev-Obs (1 Semana)
 - Creación de base de datos postgres-13 (Docker)
 - Creación de server Java-11 (Docker)
 - Creación de server Nginx para mostrar la landing (Docker)
 
-### Front-End
+### Front-End (2 Semanas)
 - Desarrollar la landing page y formluarios (Html, css, java-script)
 - Registrar los datos en de los formularios en la base de datos.
 - Realizar algoritmo de validacion de carnet de identidad con foto.
 - Desarrollar la interfaz de la firma web.
 
-### Back-End
+### Back-End (2 Semanas)
 - Agendar cita con multipagos para que nos asignen un agente
 - Obtener las credenciales de multipagos
 - Realizar la integración con multipagos.
 - Desarrollar el servicio callback para aprobar la compra despues de apribar el callback.
 
-### Back-End
+### Back-End (2 Semanas)
 - Recopilar las APIS de Nacional Seguros
 - Obtener las credenciales del entorno de pruebas de las APIS de Nacional Seguros
 - Realiar la integracion con Nacional Seguros.
 
-### Back-End
+### Back-End (2 Semanas)
 - Desarrollar el PDF acorde a los datos registrados.
 - Firmar con una firma digital y agregar un qr al pdf.
 - Almacenar los pdf firmados.
