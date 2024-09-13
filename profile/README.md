@@ -15,7 +15,7 @@ Puedes ver como nos contactaron [aquí](https://github.com/Nacional-Seguros/.git
 ## Presupuesto
 
 - Precio Bs. 87.500,00
-- Se entragarán todos los códigos en este repositorio.
+- Se entragarán todos los códigos en este repositorio con el manual de usuario en la wiki.
 - 2 Meses de desarrollo + 1 mes pruebas
 
 ## Tareas
