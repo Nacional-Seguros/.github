@@ -35,6 +35,7 @@ Puedes ver el diseño del proyecto [aquí](https://www.figma.com/design/D34igQYT
 - Agendar cita con multipagos para que nos asignen un agente
 - Obtener las credenciales de multipagos
 - Realizar la integración con multipagos.
+- Desarrollar el servicio callback para aprobar la compra despues de apribar el callback.
 
 ### Back-End
 - Recopilar las APIS de Nacional Seguros
