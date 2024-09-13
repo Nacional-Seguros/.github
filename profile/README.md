@@ -41,7 +41,7 @@ Puedes ver como inició el proyecto [aquí](https://github.com/Nacional-Seguros/
 - Desarrollar el servicio callback para aprobar la compra despues de apribar el callback.
 
 - Realiar la integracion con Nacional Seguros.
-- <Faltan los tipos de servicios que nos ofece nacional seguros>
+- `Faltan los tipos de servicios que nos ofece nacional seguros`
 - Realizar algoritmo de validacion de carnet de identidad con foto.
 
 - Desarrollar el PDF acorde a los datos registrados.
