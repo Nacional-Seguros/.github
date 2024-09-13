@@ -49,5 +49,6 @@ Puedes ver como nos contactaron [aquí](https://github.com/Nacional-Seguros/.git
 - Desarrollar el PDF acorde a los datos registrados.
 - Firmar con una firma digital y agregar un qr al pdf.
 - Almacenar los pdf firmados apra su posterior descarga.
-
-
+- Enviar Pdf por mail
+- Reporte de descargas de cada poliza (Pdf)
+- Envío de OTP mail
