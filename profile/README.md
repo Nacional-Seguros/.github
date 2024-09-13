@@ -16,15 +16,15 @@ Puedes ver cómo nos contactaron [aquí](https://github.com/Nacional-Seguros/.gi
 
 - Precio Bs. 87.500,00
 - Se entragarán todos los códigos en este repositorio con el manual de usuario en la wiki.
-- 2 Meses de desarrollo + 1 mes pruebas
+- 2 Meses de desarrollo + 1 mes pruebas.
 
 ## Tareas
 
 ### Project Manager
-- Agendar cita con Multipagos para que nos asignen un agente
-- Recopilar las APIS de Nacional Seguros
-- Obtener las credenciales del entorno de pruebas de las APIS de Nacional Seguros
-- Obtener las credenciales de multipagos
+- Agendar cita con Multipagos para que nos asignen un agente.
+- Recopilar las APIS de Nacional Seguros.
+- Obtener las credenciales del entorno de pruebas de las APIS de Nacional Seguros.
+- Obtener las credenciales de multipagos.
 
 ### Devobs
 - Base de datos Postgres-13 (Docker)
@@ -43,7 +43,7 @@ Puedes ver cómo nos contactaron [aquí](https://github.com/Nacional-Seguros/.gi
 - Desarrollar el servicio callback para aprobar la compra después de aprobar el callback.
 
 - Realizar la integración con Nacional Seguros.
-- Faltan los tipos de servicios que nos ofrece Nacional Seguros
+- Faltan los tipos de servicios que nos ofrece Nacional Seguros.
 - Realizar algoritmo de validación de carnet de identidad con foto.
 
 - Desarrollar el PDF acorde a los datos registrados.
