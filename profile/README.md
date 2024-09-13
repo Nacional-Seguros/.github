@@ -18,6 +18,8 @@ Puedes ver como inició el proyecto [aquí](https://github.com/Nacional-Seguros/
 - Se entragarán todos los códigos en este repositorio.
 - 2 Meses de desarrollo + 1 mes pruebas
 
+## Tareas
+
 ### Project Manager
 - Agendar cita con multipagos para que nos asignen un agente
 - Recopilar las APIS de Nacional Seguros
