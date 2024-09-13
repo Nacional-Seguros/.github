@@ -42,3 +42,9 @@ Puedes ver el diseño del proyecto [aquí](https://www.figma.com/design/D34igQYT
 - Obtener las credenciales del entorno de pruebas de las APIS de Nacional Seguros
 - Realiar la integracion con Nacional Seguros.
 
+### Back-End
+- Desarrollar el PDF acorde a los datos registrados.
+- Firmar con una firma digital y agregar un qr al pdf.
+- Almacenar los pdf firmados.
+
+
