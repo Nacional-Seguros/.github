@@ -43,7 +43,7 @@ Puedes ver cómo nos contactaron [aquí](https://github.com/Nacional-Seguros/.gi
 - Desarrollar el servicio callback para aprobar la compra después de aprobar el callback.
 
 - Realizar la integración con Nacional Seguros.
-- Faltan los tipos de servicios que nos ofrece Nacional Seguros`
+- Faltan los tipos de servicios que nos ofrece Nacional Seguros
 - Realizar algoritmo de validación de carnet de identidad con foto.
 
 - Desarrollar el PDF acorde a los datos registrados.
