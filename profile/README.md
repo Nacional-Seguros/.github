@@ -12,10 +12,6 @@ Este desarrollo está pensado para facilitar el proceso de contratación de segu
 
 Puedes ver como inició el proyecto [aquí](https://github.com/Nacional-Seguros/.github/wiki/Antecedentes).
 
-## Diseño
-
-Puedes ver el diseño del proyecto [aquí](https://www.figma.com/design/D34igQYT89tOj5BbUAex9n/Nacional-Seguros?node-id=0-1&t=AejW1PEoDxzNQ7lG-1).
-
 ## Presupuesto
 
 - Precio $us 12.500
