@@ -16,7 +16,8 @@ Puedes ver como inició el proyecto [aquí](https://github.com/Nacional-Seguros/
 
 Puedes ver el diseño del proyecto [aquí](https://www.figma.com/design/D34igQYT89tOj5BbUAex9n/Nacional-Seguros?node-id=0-1&t=AejW1PEoDxzNQ7lG-1).
 
-### Presupuesto
+## Presupuesto
+
 - Precio $us 12.500
 - Tiempos 2 Meses desarrollo 1 mes pruebas
 
