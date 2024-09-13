@@ -21,10 +21,10 @@ Puedes ver cómo nos contactaron [aquí](https://github.com/Nacional-Seguros/.gi
 ## Tareas
 
 ### Project Manager
-- Agendar cita con Multipagos para que nos asignen un agente.
+- Programar una cita con Multipagos para que nos asignen un agente.
 - Recopilar las APIS de Nacional Seguros.
 - Obtener las credenciales del entorno de pruebas de las APIS de Nacional Seguros.
-- Obtener las credenciales de multipagos.
+- Obtener las credenciales de Multipagos.
 
 ### Devobs
 - Base de datos Postgres-13 (Docker)
@@ -34,7 +34,7 @@ Puedes ver cómo nos contactaron [aquí](https://github.com/Nacional-Seguros/.gi
 - Documentación en esta wiki de cómo levantar el sistema.
 
 ### Front-End
-- Desarrollar la landing page y formularios (Html, Css, Java-script)
+- Desarrollar la landing page y formularios (HTML5, CSS3, JavaScript)
 - Enviar los datos de los formularios al server.
 - Desarrollar la interfaz de la firma web.
 
