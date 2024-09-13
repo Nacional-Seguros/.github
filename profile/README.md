@@ -31,14 +31,13 @@ Puedes ver el diseño del proyecto [aquí](https://www.figma.com/design/D34igQYT
 - Realizar algoritmo de validacion de carnet de identidad con foto.
 - Desarrollar la interfaz de la firma web.
 
-### Multipagos
+### Back-End
 - Agendar cita con multipagos para que nos asignen un agente
 - Obtener las credenciales de multipagos
 - Realizar la integración con multipagos.
 
-### Nacional Seguros
+### Back-End
 - Recopilar las APIS de Nacional Seguros
 - Obtener las credenciales del entorno de pruebas de las APIS de Nacional Seguros
 - Realiar la integracion con Nacional Seguros.
 
-  
