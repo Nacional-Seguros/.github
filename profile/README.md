@@ -10,11 +10,11 @@ Este desarrollo está pensado para facilitar el proceso de contratación de segu
 
 ## Antecedentes
 
-Puedes ver como inició el proyecto [aquí](https://github.com/Nacional-Seguros/.github/wiki/Antecedentes).
+Puedes ver como nos contactaron [aquí](https://github.com/Nacional-Seguros/.github/wiki/Antecedentes).
 
 ## Presupuesto
 
-- Precio $us 12.500
+- Precio Bs. 87.500,00
 - Se entragarán todos los códigos en este repositorio.
 - 2 Meses de desarrollo + 1 mes pruebas
 
