@@ -27,7 +27,7 @@ Puedes ver como inició el proyecto [aquí](https://github.com/Nacional-Seguros/
 
 ### Front-End
 - Desarrollar la landing page y formluarios (Html, css, java-script)
-- Registrar los datos en de los formularios en la base de datos.
+- Enviar los datos en de los formularios al server.
 - Desarrollar la interfaz de la firma web.
 
 ### Back-End
