@@ -19,12 +19,15 @@ Puedes ver el diseño del proyecto [aquí](https://www.figma.com/design/D34igQYT
 ## Presupuesto
 
 - Precio $us 12.500
-- Tiempos 2 Meses desarrollo 1 mes pruebas
+- Se entragarán todos los códigos en este repositorio.
+- 2 Meses de desarrollo + 1 mes pruebas
 
 ### Dev-Obs (1 Semana)
-- Creación de base de datos postgres-13 (Docker)
-- Creación de server Java-11 (Docker)
-- Creación de server Nginx para mostrar la landing (Docker)
+- Base de datos postgres-13 (Docker)
+- Server Java-11 (Docker)
+- Server Nginx para mostrar la landing (Docker)
+- Docker-compose que levante el entorno completo.
+- Documentación en esta wiki de como levantar el sistema.
 
 ### Front-End (2 Semanas)
 - Desarrollar la landing page y formluarios (Html, css, java-script)
@@ -43,7 +46,7 @@ Puedes ver el diseño del proyecto [aquí](https://www.figma.com/design/D34igQYT
 - Obtener las credenciales del entorno de pruebas de las APIS de Nacional Seguros
 - Realiar la integracion con Nacional Seguros.
 
-### Back-End (2 Semanas)
+### Back-End (1 Semana)
 - Desarrollar el PDF acorde a los datos registrados.
 - Firmar con una firma digital y agregar un qr al pdf.
 - Almacenar los pdf firmados.
