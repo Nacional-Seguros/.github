@@ -15,3 +15,30 @@ Puedes ver como inició el proyecto [aquí](https://github.com/Nacional-Seguros/
 ## Diseño
 
 Puedes ver el diseño del proyecto [aquí](https://www.figma.com/design/D34igQYT89tOj5BbUAex9n/Nacional-Seguros?node-id=0-1&t=AejW1PEoDxzNQ7lG-1).
+
+### Presupuesto
+- Precio $us 12.500
+- Tiempos 2 Meses desarrollo 1 mes pruebas
+
+### Dev-Obs
+- Creación de base de datos postgres-13 (Docker)
+- Creación de server Java-11 (Docker)
+- Creación de server Nginx para mostrar la landing (Docker)
+
+### Front-End
+- Desarrollar la landing page y formluarios (Html, css, java-script)
+- Registrar los datos en de los formularios en la base de datos.
+- Realizar algoritmo de validacion de carnet de identidad con foto.
+- Desarrollar la interfaz de la firma web.
+
+### Multipagos
+- Agendar cita con multipagos para que nos asignen un agente
+- Obtener las credenciales de multipagos
+- Realizar la integración con multipagos.
+
+### Nacional Seguros
+- Recopilar las APIS de Nacional Seguros
+- Obtener las credenciales del entorno de pruebas de las APIS de Nacional Seguros
+- Realiar la integracion con Nacional Seguros.
+
+  
