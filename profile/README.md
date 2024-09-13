@@ -10,7 +10,7 @@ Este desarrollo está pensado para facilitar el proceso de contratación de segu
 
 ## Antecedentes
 
-Puedes ver como nos contactaron [aquí](https://github.com/Nacional-Seguros/.github/wiki/Antecedentes).
+Puedes ver cómo nos contactaron [aquí](https://github.com/Nacional-Seguros/.github/wiki/Antecedentes).
 
 ## Presupuesto
 
@@ -21,34 +21,34 @@ Puedes ver como nos contactaron [aquí](https://github.com/Nacional-Seguros/.git
 ## Tareas
 
 ### Project Manager
-- Agendar cita con multipagos para que nos asignen un agente
+- Agendar cita con Multipagos para que nos asignen un agente
 - Recopilar las APIS de Nacional Seguros
 - Obtener las credenciales del entorno de pruebas de las APIS de Nacional Seguros
 - Obtener las credenciales de multipagos
 
 ### Devobs
-- Base de datos postgres-13 (Docker)
+- Base de datos Postgres-13 (Docker)
 - Server Java-11 (Docker)
 - Server Nginx para mostrar la landing (Docker)
 - Docker-compose que levante el entorno completo.
-- Documentación en esta wiki de como levantar el sistema.
+- Documentación en esta wiki de cómo levantar el sistema.
 
 ### Front-End
-- Desarrollar la landing page y formluarios (Html, css, java-script)
-- Enviar los datos en de los formularios al server.
+- Desarrollar la landing page y formularios (Html, Css, Java-script)
+- Enviar los datos de los formularios al server.
 - Desarrollar la interfaz de la firma web.
 
 ### Back-End
-- Realizar la integración con multipagos.
-- Desarrollar el servicio callback para aprobar la compra despues de apribar el callback.
+- Realizar la integración con Multipagos.
+- Desarrollar el servicio callback para aprobar la compra después de aprobar el callback.
 
-- Realiar la integracion con Nacional Seguros.
-- `Faltan los tipos de servicios que nos ofece nacional seguros`
-- Realizar algoritmo de validacion de carnet de identidad con foto.
+- Realizar la integración con Nacional Seguros.
+- Faltan los tipos de servicios que nos ofrece Nacional Seguros`
+- Realizar algoritmo de validación de carnet de identidad con foto.
 
 - Desarrollar el PDF acorde a los datos registrados.
-- Firmar con una firma digital y agregar un qr al pdf.
-- Almacenar los pdf firmados apra su posterior descarga.
-- Enviar Pdf por mail
-- Reporte de descargas de cada poliza (Pdf)
-- Envío de OTP mail
+- Firmar digitalmente e incluir tanto la firma como un código QR en un archivo PDF.
+- Almacenar los PDF firmados para su posterior descarga.
+- Enviar PDF por correo electrónico.
+- Reporte de descargas de cada póliza (PDF)
+- Envío de OTP mail.
