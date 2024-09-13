@@ -18,6 +18,12 @@ Puedes ver como inició el proyecto [aquí](https://github.com/Nacional-Seguros/
 - Se entragarán todos los códigos en este repositorio.
 - 2 Meses de desarrollo + 1 mes pruebas
 
+### Project Manager
+- Agendar cita con multipagos para que nos asignen un agente
+- Recopilar las APIS de Nacional Seguros
+- Obtener las credenciales del entorno de pruebas de las APIS de Nacional Seguros
+- Obtener las credenciales de multipagos
+
 ### Devobs
 - Base de datos postgres-13 (Docker)
 - Server Java-11 (Docker)
@@ -31,18 +37,15 @@ Puedes ver como inició el proyecto [aquí](https://github.com/Nacional-Seguros/
 - Desarrollar la interfaz de la firma web.
 
 ### Back-End
-- Agendar cita con multipagos para que nos asignen un agente
-- Obtener las credenciales de multipagos
 - Realizar la integración con multipagos.
 - Desarrollar el servicio callback para aprobar la compra despues de apribar el callback.
 
-- Recopilar las APIS de Nacional Seguros
-- Obtener las credenciales del entorno de pruebas de las APIS de Nacional Seguros
 - Realiar la integracion con Nacional Seguros.
+- <Faltan los tipos de servicios que nos ofece nacional seguros>
 - Realizar algoritmo de validacion de carnet de identidad con foto.
 
 - Desarrollar el PDF acorde a los datos registrados.
 - Firmar con una firma digital y agregar un qr al pdf.
-- Almacenar los pdf firmados.
+- Almacenar los pdf firmados apra su posterior descarga.
 
 
