@@ -18,6 +18,14 @@ Puedes ver cómo nos contactaron [aquí](https://github.com/Nacional-Seguros/.gi
 - Se entragarán todos los códigos en este repositorio con el manual de usuario en la wiki.
 - 2 Meses de desarrollo + 1 mes pruebas.
 
+### Forma de pago
+
+|Cuota|Descripcion|Monto|
+|-|-----------|-----|
+|1|Pago inicio de oparaciones|Bs.0.00|
+|2|Pago inicio de pruebas|Bs.0.00|
+|3|Pago pase a prosuccion |Bs.0.00|
+
 ## Tareas
 
 ### Project Manager
