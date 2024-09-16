@@ -25,6 +25,8 @@ Puedes ver cómo nos contactaron [aquí](https://github.com/Nacional-Seguros/.gi
 |⚠️|1|Pago inicio de operaciones|Bs.30.000,00|__/__/____||
 |⚠️|2|Pago inicio de pruebas|Bs.30.000,00|__/__/____||
 |⚠️|3|Pago pase a producción |Bs.27.000,00|__/__/____||
+||4|Langing #1| Free|||
+||5|Landing #2| Bs.3.500,00|||
 
 ## Tareas
 
