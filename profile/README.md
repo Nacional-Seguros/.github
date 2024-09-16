@@ -20,11 +20,11 @@ Puedes ver cómo nos contactaron [aquí](https://github.com/Nacional-Seguros/.gi
 
 ### Forma de pago
 
-|Estado|Cuota|Descripcion|Monto|
-|-|-|-----------|-----|
-|⚠️|1|Pago inicio de operaciones|Bs.30.000,00|
-|⚠️|2|Pago inicio de pruebas|Bs.30.000,00|
-|⚠️|3|Pago pase a producción |Bs.27.000,00|
+|Estado|Cuota|Descripcion|Monto|Fecha a Pagar| Fecha Pago|
+|-|-|-----------|-----|--|-|
+|⚠️|1|Pago inicio de operaciones|Bs.30.000,00|__/__/____||
+|⚠️|2|Pago inicio de pruebas|Bs.30.000,00|__/__/____||
+|⚠️|3|Pago pase a producción |Bs.27.000,00|__/__/____||
 
 ## Tareas
 
